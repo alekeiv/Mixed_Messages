@@ -31,3 +31,4 @@ function generateRandomJoke() {
 
 // Step 4: Output the joke to the console
 console.log(generateRandomJoke());
+console.log(generateRandomJoke()); // Alessio
